@@ -10,3 +10,4 @@ datetime
 numpy
 pandas
 matplotlib
+dotenv
